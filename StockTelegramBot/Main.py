@@ -1,5 +1,5 @@
 import telebot
-from Test import Portfolio
+from StockTelegramBot import Portfolio
 
 token = ""
 bot = telebot.TeleBot(token)
