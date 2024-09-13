@@ -8,6 +8,10 @@ It implements methods for analyzing stock returns, as well as visualization of v
 + Graphical
 
 ## Technology
++ numpy
++ matplotlib
++ pandas
++ telebot
 
 ## StockTelegramBot
   To know about parts of stocks in portfolio. The bot use Markovitz theory for create most effectively portfolio from your stocks.
